@@ -1,0 +1,51 @@
+UnderwrittenCoverID	PolicyID	TransactionMonth	IsVATRegistered	Citizenship	LegalType	Gender	Country	PostalCode	DriverAge	VehicleAge	TotalPremium	TotalClaims	ClaimAmount	LossRatio
+1	637299	6/15/2019	Yes	Ethiopian	Individual	Male	Ethiopia	1000	35	3	5450	0	0	0
+2	902814	11/2/2020	No	Ethiopian	Individual	Female	Ethiopia	2000	42	5	4830	1	1680	0.3478
+3	174539	8/20/2021	Yes	Foreign - Work Permit	Company	Male	Ethiopia	3000	28	2	5670	0	0	0
+4	943210	12/11/2019	No	Ethiopian	Individual	Male	Ethiopia	4000	55	8	3990	0	0	0
+5	617283	4/5/2022	Yes	Ethiopian	Association	Female	Ethiopia	5000	48	1	4760	2	2890	0.6071
+6	305729	9/18/2020	No	Refugee	Individual	Male	Ethiopia	6000	22	4	6650	1	2320	0.3489
+7	812456	1/30/2023	Yes	Ethiopian	Individual	Female	Ethiopia	7000	31	6	4130	0	0	0
+8	540987	7/22/2019	No	Foreign - Other	Company	Male	Ethiopia	8000	45	0	3850	0	0	0
+9	726394	3/14/2021	Yes	Ethiopian	Individual	Male	Ethiopia	1000	62	11	4950	2	3210	0.6485
+10	193846	10/9/2022	No	Ethiopian	Individual	Female	Ethiopia	2000		7	4280	0	0	0
+11	458291	5/27/2023	Yes	Ethiopian	Company	Male	Ethiopia	3000	29	3	5790	1	2020	0.3489
+12	671230	2/14/2020	No	Foreign - Work Permit	Individual	Female	Ethiopia	4000	37	9	3570	0	0	0
+13	824567	11/30/2021	Yes	Ethiopian	Association	Male	Ethiopia	5000	51	2	4880	0	0	0
+14	369012	9/8/2019	No	Ethiopian	Individual	Male	Ethiopia	6000	19	5	7210	3	5920	0.8211
+15	705439	12/17/2022	Yes	Refugee	Individual	Female	Ethiopia	7000	44	1	4200	0	0	0
+16	238756	7/4/2020	No	Ethiopian	Company	Female	Ethiopia	8000	60	12	3520	0	0	0
+17	993482	9/21/2023	Yes	Foreign - Other	Individual	Male	Ethiopia	1000	33	4	5320	1	1860	0.3496
+18	147035	5/12/2021	No	Ethiopian	Individual	Female	Ethiopia	2000	47	6	4480	0	0	0
+19	560873	10/29/2020	Yes	Ethiopian	Association	Male	Ethiopia	3000	26	0	5880	0	0	0
+20	801264	2/18/2022	No	Foreign - Work Permit	Individual	Male	Ethiopia	4000	38	7	3920	1	1370	0.3495
+21	415689	8/11/2023	Yes	Ethiopian	Individual	Female	Ethiopia	5000	52	10	4210	0	0	0
+22	739502	4/25/2019	No	Ethiopian	Company	Male	Ethiopia	6000	41	4	6300	1	2200	0.3492
+23	681347	12/3/2021	Yes	Ethiopian	Individual	Male	Ethiopia	7000	27	2	4760	0	0	0
+24	952168	6/19/2020	No	Refugee	Individual	Female	Ethiopia	8000	58	9	3150	0	0	0
+25	207395	9/14/2022	Yes	Foreign - Work Permit	Association	Male	Ethiopia	1000	34	1	5960	0	0	0
+26	634821	2/28/2023	No	Ethiopian	Individual	Male	Ethiopia	2000	24	6	5460	2	3280	0.6007
+27	810577	10/7/2019	Yes	Ethiopian	Company	Female	Ethiopia	3000	49	3	5530	0	0	0
+28	129403	7/16/2021	No	Foreign - Other	Individual	Male	Ethiopia	4000	30	8	3640	0	0	0
+29	573092	12/22/2020	Yes	Ethiopian	Individual	Female	Ethiopia	5000	63	0	4620	1	1610	0.3485
+30	948762	4/9/2023	No	Ethiopian	Association	Male	Ethiopia	6000	36	5	6650	0	0	0
+31	385021	3/12/2019	Yes	Ethiopian	Individual	Male	Ethiopia	7000	50	7	4200	0	0	0
+32	720496	1/25/2022	No	Foreign - Work Permit	Individual	Female	Ethiopia	8000	32	2	4340	0	0	0
+33	609843	10/30/2021	Yes	Ethiopian	Company	Male	Ethiopia	1000	44	9	5040	1	1760	0.3492
+34	174269	8/17/2020	No	Ethiopian	Individual	Male	Ethiopia	2000	61	4	4480	0	0	0
+35	862501	6/5/2023	Yes	Refugee	Individual	Female	Ethiopia	3000	25	3	6160	1	2150	0.349
+36	590428	11/19/2019	No	Ethiopian	Association	Male	Ethiopia	4000	40	6	3780	0	0	0
+37	734689	7/28/2022	Yes	Ethiopian	Individual	Male	Ethiopia	5000	53	1	4970	0	0	0
+38	413287	5/3/2020	No	Foreign - Other	Individual	Female	Ethiopia	6000	21	7	7070	2	4950	0.7001
+39	960334	2/21/2021	Yes	Ethiopian	Company	Male	Ethiopia	7000	38	10	3990	0	0	0
+40	287561	11/15/2023	No	Ethiopian	Individual	Female	Ethiopia	8000	46	5	3430	0	0	0
+41	531409	8/29/2019	Yes	Foreign - Work Permit	Individual	Male	Ethiopia	1000	29	2	5740	0	0	0
+42	806372	5/20/2022	No	Ethiopian	Association	Female	Ethiopia	2000	57	8	4060	0	0	0
+43	692715	1/13/2020	Yes	Ethiopian	Individual	Male	Ethiopia	3000	43	4	5600	1	1960	0.35
+44	178056	3/27/2023	No	Refugee	Individual	Female	Ethiopia	4000	33	1	3990	0	0	0
+45	403928	9/9/2021	Yes	Ethiopian	Company	Male	Ethiopia	5000	50	9	4340	0	0	0
+46	225613	12/1/2019	No	Ethiopian	Individual	Male	Ethiopia	6000	27	6	6720	1	2350	0.3497
+47	949271	6/24/2022	Yes	Foreign - Other	Individual	Female	Ethiopia	7000	64	3	3990	0	0	0
+48	588046	10/12/2023	No	Ethiopian	Association	Male	Ethiopia	8000	39	0	3850	0	0	0
+49	346789	4/6/2020	Yes	Ethiopian	Individual	Male	Ethiopia	1000	23	5	6790	3	5430	0.7997
+50	724153	6/18/2021	No	Foreign - Work Permit	Individual	Female	Ethiopia	2000	54	2	4550	0	0	0
